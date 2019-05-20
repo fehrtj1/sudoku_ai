@@ -1,0 +1,28 @@
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\sudoku\sudoku\obj\Debug\sudoku.csprojAssemblyReference.cache
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\AI-Project2\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\AI-Project2\sudoku\bin\Debug\sudoku.exe
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\AI-Project2\sudoku\bin\Debug\sudoku.pdb
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\AI-Project2\sudoku\obj\Debug\sudoku.csprojAssemblyReference.cache
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\AI-Project2\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\AI-Project2\sudoku\obj\Debug\sudoku.exe
+C:\Users\risingerjm1\Grove City College\OneDrive - Grove City College\School\Junior\Spring Semester\Artificial Intelligence\Proj2\AI-Project2\sudoku\obj\Debug\sudoku.pdb
+C:\Users\ahrensjc1\Documents\GitHub\AI-Project2\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\ahrensjc1\Documents\GitHub\AI-Project2\sudoku\bin\Debug\sudoku.exe
+C:\Users\ahrensjc1\Documents\GitHub\AI-Project2\sudoku\bin\Debug\sudoku.pdb
+C:\Users\ahrensjc1\Documents\GitHub\AI-Project2\sudoku\obj\Debug\sudoku.csprojAssemblyReference.cache
+C:\Users\ahrensjc1\Documents\GitHub\AI-Project2\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\ahrensjc1\Documents\GitHub\AI-Project2\sudoku\obj\Debug\sudoku.exe
+C:\Users\ahrensjc1\Documents\GitHub\AI-Project2\sudoku\obj\Debug\sudoku.pdb
+C:\Users\tyler\Documents\GitHub\AI-Project2\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\tyler\Documents\GitHub\AI-Project2\sudoku\bin\Debug\sudoku.exe
+C:\Users\tyler\Documents\GitHub\AI-Project2\sudoku\bin\Debug\sudoku.pdb
+C:\Users\tyler\Documents\GitHub\AI-Project2\sudoku\obj\Debug\sudoku.csprojAssemblyReference.cache
+C:\Users\tyler\Documents\GitHub\AI-Project2\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Documents\GitHub\AI-Project2\sudoku\obj\Debug\sudoku.exe
+C:\Users\tyler\Documents\GitHub\AI-Project2\sudoku\obj\Debug\sudoku.pdb
